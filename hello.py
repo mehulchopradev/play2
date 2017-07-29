@@ -2,8 +2,10 @@
 
 print "Hello To All"
 
-print "Good Morning To All"
+msg = "Good Morning To All"
+print msg
 
-print "Good  Night"
+msg = 'Good Night'
+print msg
 
 # call the function from the above imported module and print it!
